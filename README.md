@@ -28,19 +28,50 @@ metin ve yapısal veriler başarıyla entegre edildi.
 ## 🚀 Nasıl Çalıştırılır?
 İlgili `.ipynb` dosyasını Jupyter Notebook veya Google Colab üzerinden açarak kodları inceleyebilirsiniz.
 
-! SAYISAL DEĞİŞKENLERİN DAĞILIM ANALİZİ(images/1.png)
-![ EKSİK DEĞER ANALİZİ](images/2.png)
-![ AYKIRI DEĞER ANALİZİ](images/3.png)
-![ HEDEF DEĞİŞKEN (TARGET) DETAYLI DAĞILIM ANALİZİ](images/4.png)
-![ KATEGORİK SÜTUNLAR VE HEDEF ETKİ ANALİZİ](images/5.png)
-![ GÜVENLİ KATEGORİK ENCODING OPERASYONU](images/6.png)
-![ KÜRESEL SİNYAL ANALİZİ VE GEÇİCİ KORUMA ALTINA ALMA](images/7.png)
-![ SENTENCE-BERT MODELİNİN YÜKLENMESİ VE REHBER EMBEDDING MATRİSİNİN HAZIRLANMASI](images/8.png)
-![ VERİNİN KALİTE KONTROLÜ VE VERİ BÜTÜNLÜĞÜ DENETİMİ ](images/9.png)
-![TEMEL MODELLERİN OPTİMİZE EDİLMİŞ OTOMATİK EĞİTİMİ](images/10.1.png)
-![TEMEL MODELLERİN OPTİMİZE EDİLMİŞ OTOMATİK EĞİTİMİ](images/10.2.png)
-![TEMEL MODELLERİN OPTİMİZE EDİLMİŞ OTOMATİK EĞİTİMİ](images/10.3.png)
-![TEMEL MODELLERİN OPTİMİZE EDİLMİŞ OTOMATİK EĞİTİMİ](images/10.4.png)
-![TEMEL MODELLERİN OPTİMİZE EDİLMİŞ OTOMATİK EĞİTİMİ](images/10.5.png)
-!LİDERLİK TABLOSU VE KARŞILAŞTIRMA PANELİ](images/11.png)
+### 1. Sayısal Değişkenlerin Dağılım Analizi
+![Sayısal Değişkenlerin Dağılım Analizi](images/1.png)
+<br><br>
 
+### 2. Eksik Değer Analizi
+![Eksik Değer Analizi](images/2.png)
+<br><br>
+
+### 3. Aykırı Değer Analizi
+![Aykırı Değer Analizi](images/3.png)
+<br><br>
+
+### 4. Hedef Değişken (Target) Detaylı Dağılım Analizi
+![Hedef Değişken Analizi](images/4.png)
+<br><br>
+
+### 5. Kategorik Sütunlar ve Hedef Etki Analizi
+![Kategorik Sütunlar ve Hedef Etki Analizi](images/5.png)
+<br><br>
+
+### 6. Güvenli Kategorik Encoding Operasyonu
+![Güvenli Kategorik Encoding Operasyonu](images/6.png)
+<br><br>
+
+### 7. Küresel Sinyal Analizi ve Geçici Koruma
+![Küresel Sinyal Analizi](images/7.png)
+<br><br>
+
+### 8. Sentence-BERT Modeli ve Embedding Hazırlığı
+![Embedding Hazırlığı](images/8.png)
+<br><br>
+
+### 9. Veri Kalite Kontrolü ve Bütünlük Denetimi
+![Veri Kalite Kontrolü](images/9.png)
+<br><br>
+
+### 10. Temel Modellerin Optimize Edilmiş Otomatik Eğitimi
+![Eğitim 1](images/10.1.png)
+![Eğitim 2](images/10.2.png)
+![Eğitim 3](images/10.3.png)
+![Eğitim 4](images/10.4.png)
+![Eğitim 5](images/10.5.png)
+<br><br>
+
+### 11. Liderlik Tablosu ve Karşılaştırma Paneli
+![Liderlik Tablosu](images/11.png)
+<br><br>
