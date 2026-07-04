@@ -1,1 +1,1 @@
-# Datathon-2026-Kariyer-Ba-ar-Tahminleme-Modeli
+# Datathon-2026-Kariyer-Başarı-Tahminleme-Modeli
