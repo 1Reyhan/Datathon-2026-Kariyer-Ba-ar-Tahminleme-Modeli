@@ -28,7 +28,7 @@ metin ve yapısal veriler başarıyla entegre edildi.
 ## 🚀 Nasıl Çalıştırılır?
 İlgili `.ipynb` dosyasını Jupyter Notebook veya Google Colab üzerinden açarak kodları inceleyebilirsiniz.
 
-![ SAYISAL DEĞİŞKENLERİN DAĞILIM ANALİZİ](images/1.SAYISAL DEĞİŞKENLERİN DAĞILIM ANALİZİ.png)
+![ SAYISAL DEĞİŞKENLERİN DAĞILIM ANALİZİ](assets/1.SAYISAL DEĞİŞKENLERİN DAĞILIM ANALİZİ.png)
 ![ EKSİK DEĞER ANALİZİ](images/ozellikler_gorsel.png)
 ![ AYKIRI DEĞER ANALİZİ](images/ozellikler_gorsel.png)
 ![ HEDEF DEĞİŞKEN (TARGET) DETAYLI DAĞILIM ANALİZİ](images/ozellikler_gorsel.png)
